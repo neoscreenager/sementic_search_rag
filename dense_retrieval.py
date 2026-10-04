@@ -4,7 +4,7 @@ import pandas as pd
 from tqdm import tqdm
 #salon_veggie.9t
 
-api_key = "8Uu6PwpQBDZizoZAPjH8kCbDNTlzGc8GUlJB3XpP"
+api_key = ""
 
 co = cohere.ClientV2(api_key)
 
